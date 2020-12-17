@@ -1,0 +1,1 @@
+This project is for Learning Python the Hard Way.
